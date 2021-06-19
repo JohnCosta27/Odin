@@ -3,4 +3,4 @@
 	url = https://github.com/JohnCosta27/OdinFrontend.git
 [submodule "backend"]
 	path = backend
-	url = ./backend
+	url = https://github.com/JohnCosta27/OdinBackend.git
